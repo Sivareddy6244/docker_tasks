@@ -1,0 +1,37 @@
+Digital Payments for a Trusted World
+
+WORLDLINE W
+
+Dev ops
+
+COMPLETED TASKS
+
+1. Kafka Connectivity in iTest and PROD environments.
+
+2. Python scripts and automation for SFTP Inbound as per our requirements to fix proxy issues.
+
+3. Implemented INGPAY in Dev, Pre-prod and PROD environments from our end and working with customer for connectivity part.
+
+4. Working with CCC team for creation of new UAT setup.
+
+5. Worked on Security vulnerabilities, resolved couple of them and working on documentation.
+
+6. Improved the CI/CD pipeline performance during Dataplex scans creation by downloading packages into the repo.
+
+7. Created custom roles and assigned them to DEV, CE, PM groups and composer SA for Dataflow jobs in all environments by Terraform.
+
+8. Generated SSH2 keys and shared with PAY team.
+
+00
+
+FUTURE TASKS
+
+1. Need to check with clients on INGPAY for access related SFTP Outbound(in dev, da and prod)
+
+2. Security Vulnerabilities.
+
+3. Create new UAT GCP project and update pipelines & terraform scripts.
+
+4. Need to request for GitLab Dedicated runners.
+
+5. Custom IAM roles
